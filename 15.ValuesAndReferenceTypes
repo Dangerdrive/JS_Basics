@@ -1,0 +1,12 @@
+Primitive data types:
+- number
+- string
+- boolean
+- null
+- undefined
+- Symbol
+- BigInt
+
+Primitive values are copied by their value
+
+Objects are copied by reference

@@ -1,5 +1,7 @@
 JavaScript Course for Beginners 2024
 
+When you know C, many abstracts contexts, such as reference - actually, everything that under the hood envolves pointers are no mistery.
+
 https://www.youtube.com/watch?v=Zi-Q0t4gMC8
 
 Node installation on ubuntu

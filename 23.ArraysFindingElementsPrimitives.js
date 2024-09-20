@@ -1,3 +1,8 @@
+//Primitive data types x Reference data types(objs)
+
+//primitive data types - .indexOf .lastIndexOf .includes
+
+
 let numbers = [5, 4, 3, 2, 1, 3];
 
 const indexOfThree = numbers.indexOf(3);
